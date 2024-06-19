@@ -1,4 +1,4 @@
-👋 Hi, I’m @GitHub2002Priya
+👋 Hi, I’m PRIYA BANIK my Github account:@GitHub2002Priya
 👀 I’m interested in Frontend Development.
 🌱 I’m currently learning Full stack web Development.
 💞️ I’m looking to collaborate on exciting web projects.
