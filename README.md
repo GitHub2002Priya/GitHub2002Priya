@@ -1,6 +1,6 @@
 👋 Hi, I’m PRIYA BANIK my Github account:@GitHub2002Priya
 👀 I’m interested in Frontend Development.
-🌱 I’m currently learning Full stack web Development.
+🌱 I’m currently learning Full stack web Developer.
 💞️ I’m looking to collaborate on exciting web projects.
 📫 How to reach me: priyabanik222@gmail.com
 😄 Pronouns: She/Her
